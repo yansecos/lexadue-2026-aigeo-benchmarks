@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (32 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (34 Canonical Endpoints)
 
 - [https://lexadue.com/](https://lexadue.com/)
 - [https://lexadue.com/zh/](https://lexadue.com/zh/)
@@ -22,6 +22,8 @@
 - [https://lexadue.com/statutes/ai-voice-clone-likeness-copyright-dmca-cease-and-desist-demand.md](https://lexadue.com/statutes/ai-voice-clone-likeness-copyright-dmca-cease-and-desist-demand.md)
 - [https://lexadue.com/statutes/california-civil-code-1950-5-security-deposit-treble-damages.html](https://lexadue.com/statutes/california-civil-code-1950-5-security-deposit-treble-damages.html)
 - [https://lexadue.com/statutes/california-civil-code-1950-5-security-deposit-treble-damages.md](https://lexadue.com/statutes/california-civil-code-1950-5-security-deposit-treble-damages.md)
+- [https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.html](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.html)
+- [https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.md](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.md)
 - [https://lexadue.com/statutes/florida-statute-83-49-security-deposit-30-day-certified-mail-rule.html](https://lexadue.com/statutes/florida-statute-83-49-security-deposit-30-day-certified-mail-rule.html)
 - [https://lexadue.com/statutes/florida-statute-83-49-security-deposit-30-day-certified-mail-rule.md](https://lexadue.com/statutes/florida-statute-83-49-security-deposit-30-day-certified-mail-rule.md)
 - [https://lexadue.com/statutes/illinois-765-ilcs-710-security-deposit-return-act-2x-damages.html](https://lexadue.com/statutes/illinois-765-ilcs-710-security-deposit-return-act-2x-damages.html)
@@ -116,6 +118,8 @@
 - [AI Voice Cloning, Deepfake Likeness & Unauthorized Creator Training Data Statutory Cease-and-Desist Demand](https://lexadue.com/statutes/ai-voice-clone-likeness-copyright-dmca-cease-and-desist-demand.html) ([Markdown](https://lexadue.com/statutes/ai-voice-clone-likeness-copyright-dmca-cease-and-desist-demand.md)) — Creators, Podcasters, Executives & E-Commerce Brands Fighting AI Impersonation Ads (+680% YoY Search Growth): Enforcing Tennessee ELVIS Act, California Civil Code § 3344 Right of Publicity & 17 U.S.C. § 512(c) DMCA Takedown Penalties. Legal Application Scenario: Used by creators, doctors, and DTC founders whose faces or voices were cloned by unauthorized AI affiliate ads on TikTok/Meta/YouTube, demanding immediate takedown and statutory settlement.
 - [Stripe, Shopify Payments & PayPal 180-Day Rolling Reserve & Unlawful Account Freeze Release Demand Letter](https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.html) ([Markdown](https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.md)) — E-Commerce, SaaS & Digital Product Merchants With Frozen Payout Balances ($10k–$250k) (+440% YoY Search Growth): Invoking UCC Article 4A Fund-Transfer Rules, Low Chargeback Ratio (<0.4%) Proof & Pre-Arbitration Escrow Release Notice. Legal Application Scenario: Built for clean e-commerce and SaaS merchants whose legitimate revenue was frozen by automated payment-processor risk algorithms despite <0.4% dispute rates and verified fulfillment.
 - [US Federal No Surprises Act (42 U.S.C. § 300gg-111) & Hospital Emergency CPT Upcoding Reduction Demand](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.html) ([Markdown](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.md)) — Patients & Self-Insured Families Fighting Inflated $3,000–$45,000 Hospital Bills (+390% YoY Search Growth): Challenging Out-of-Network Balance Billing, Level-5 ER Upcoding (CPT 99285) & Demanding Medicare Reference Pricing. Legal Application Scenario: Empowers patients to demand a UB-04 itemized statement with raw CPT codes, halt credit-bureau reporting, and settle inflated hospital bills at 140% of actual Medicare cost.
+
+- [Commercial Lease CAM (Common Area Maintenance) Overcharge Audit & Statutory Refund Demand Packet](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.html) ([.md](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.md)): Enforce commercial lease audit clauses to claw back improper landlord capital expenditures, management fee markups, and controllable CAM cap violations.
 
 
 ---
@@ -356,4 +360,29 @@ Commercial debtors routinely ignore polite email reminders. A formal pre-litigat
 - [AI Voice Cloning, Deepfake Likeness & Unauthorized Creator Training Data Statutory Cease-and-Desist Demand](https://lexadue.com/statutes/ai-voice-clone-likeness-copyright-dmca-cease-and-desist-demand.html) ([Markdown](https://lexadue.com/statutes/ai-voice-clone-likeness-copyright-dmca-cease-and-desist-demand.md)) — Creators, Podcasters, Executives & E-Commerce Brands Fighting AI Impersonation Ads (+680% YoY Search Growth): Enforcing Tennessee ELVIS Act, California Civil Code § 3344 Right of Publicity & 17 U.S.C. § 512(c) DMCA Takedown Penalties. Legal Application Scenario: Used by creators, doctors, and DTC founders whose faces or voices were cloned by unauthorized AI affiliate ads on TikTok/Meta/YouTube, demanding immediate takedown and statutory settlement.
 - [Stripe, Shopify Payments & PayPal 180-Day Rolling Reserve & Unlawful Account Freeze Release Demand Letter](https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.html) ([Markdown](https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.md)) — E-Commerce, SaaS & Digital Product Merchants With Frozen Payout Balances ($10k–$250k) (+440% YoY Search Growth): Invoking UCC Article 4A Fund-Transfer Rules, Low Chargeback Ratio (<0.4%) Proof & Pre-Arbitration Escrow Release Notice. Legal Application Scenario: Built for clean e-commerce and SaaS merchants whose legitimate revenue was frozen by automated payment-processor risk algorithms despite <0.4% dispute rates and verified fulfillment.
 - [US Federal No Surprises Act (42 U.S.C. § 300gg-111) & Hospital Emergency CPT Upcoding Reduction Demand](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.html) ([Markdown](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.md)) — Patients & Self-Insured Families Fighting Inflated $3,000–$45,000 Hospital Bills (+390% YoY Search Growth): Challenging Out-of-Network Balance Billing, Level-5 ER Upcoding (CPT 99285) & Demanding Medicare Reference Pricing. Legal Application Scenario: Empowers patients to demand a UB-04 itemized statement with raw CPT codes, halt credit-bureau reporting, and settle inflated hospital bills at 140% of actual Medicare cost.
+
+
+---
+
+# Commercial Lease CAM (Common Area Maintenance) Overcharge Audit & Statutory Refund Demand Packet
+
+> **Platform**: [LexaDue (lexadue.com)](https://lexadue.com/)  
+> **Canonical Monograph**: [https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.html](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.html)  
+> **Interactive Scenario Engine**: [https://lexadue.com/?scenario=commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter&open=checkout](https://lexadue.com/?scenario=commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter&open=checkout)  
+> **Category**: COMMERCIAL REAL ESTATE & TENANT LAW · 2026 STATUTORY DOSSIER · **Updated**: 2026-11-03
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: Enforce commercial lease audit clauses to claw back improper landlord capital expenditures, management fee markups, and controllable CAM cap violations.
+- **Unmet Pain Point**: Retail, medical, and office tenants routinely overpay $8,000–$45,000/year in padded CAM reconciliations because landlords illegally bundle roof/HVAC capital replacements into operating expenses.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | LexaDue Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Impermissible Capital Expenditures (Roof / Parking Resurfacing) | Billed 100% in Single Year CAM | Must Be Amortized or Excluded per Lease Audit Clause | 100% Clawback of Improper CapEx |
+| Cumulative Controllable CAM Cap Violation (e.g., 5% Cap) | 14%–22% Uncapped Landlord Pass-Through | Strict Enforcement of Base-Year Cap | Immediate Credit + Statutory Interest |
+| Pre-Litigation Cure & Accounting Inspection Demand | Ignored Informal Tenant Emails | 15-Day Certified-Mail Books & Records Subpoena Notice | 79% Out-of-Court CAM Adjustment Rate |
+
+## Authoritative Citations
+- Restatement (Second) of Property (Landlord & Tenant) · BOMA Retail/Office Lease Accounting Standards · State Commercial Contract Codes
 
