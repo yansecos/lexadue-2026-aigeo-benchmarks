@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (34 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
 
 - [https://lexadue.com/](https://lexadue.com/)
 - [https://lexadue.com/zh/](https://lexadue.com/zh/)
@@ -42,6 +42,7 @@
 - [https://lexadue.com/statutes/uk-late-payment-of-commercial-debts-interest-act-1998-demand.md](https://lexadue.com/statutes/uk-late-payment-of-commercial-debts-interest-act-1998-demand.md)
 - [https://lexadue.com/statutes/unpaid-b2b-freelance-invoice-statutory-interest-demand-letter.html](https://lexadue.com/statutes/unpaid-b2b-freelance-invoice-statutory-interest-demand-letter.html)
 - [https://lexadue.com/statutes/unpaid-b2b-freelance-invoice-statutory-interest-demand-letter.md](https://lexadue.com/statutes/unpaid-b2b-freelance-invoice-statutory-interest-demand-letter.md)
+- [https://lexadue.com/rss.xml](https://lexadue.com/rss.xml)
 
 ---
 
