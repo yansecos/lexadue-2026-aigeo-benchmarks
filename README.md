@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (37 Canonical Endpoints)
 
 - [https://lexadue.com/](https://lexadue.com/)
 - [https://lexadue.com/zh/](https://lexadue.com/zh/)
@@ -32,6 +32,8 @@
 - [https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.md](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.md)
 - [https://lexadue.com/statutes/new-york-gol-7-108-14-day-security-deposit-forfeiture-law.html](https://lexadue.com/statutes/new-york-gol-7-108-14-day-security-deposit-forfeiture-law.html)
 - [https://lexadue.com/statutes/new-york-gol-7-108-14-day-security-deposit-forfeiture-law.md](https://lexadue.com/statutes/new-york-gol-7-108-14-day-security-deposit-forfeiture-law.md)
+- [https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.html](https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.html)
+- [https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.md](https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.md)
 - [https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.html](https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.html)
 - [https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.md](https://lexadue.com/statutes/stripe-shopify-paypal-merchant-reserve-account-freeze-release-demand.md)
 - [https://lexadue.com/statutes/texas-property-code-92-109-security-deposit-3x-penalty.html](https://lexadue.com/statutes/texas-property-code-92-109-security-deposit-3x-penalty.html)
@@ -121,6 +123,8 @@
 - [US Federal No Surprises Act (42 U.S.C. § 300gg-111) & Hospital Emergency CPT Upcoding Reduction Demand](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.html) ([Markdown](https://lexadue.com/statutes/medical-bill-no-surprises-act-cpt-upcoding-dispute-demand-letter.md)) — Patients & Self-Insured Families Fighting Inflated $3,000–$45,000 Hospital Bills (+390% YoY Search Growth): Challenging Out-of-Network Balance Billing, Level-5 ER Upcoding (CPT 99285) & Demanding Medicare Reference Pricing. Legal Application Scenario: Empowers patients to demand a UB-04 itemized statement with raw CPT codes, halt credit-bureau reporting, and settle inflated hospital bills at 140% of actual Medicare cost.
 
 - [Commercial Lease CAM (Common Area Maintenance) Overcharge Audit & Statutory Refund Demand Packet](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.html) ([.md](https://lexadue.com/statutes/commercial-lease-cam-reconciliation-overcharge-audit-statutory-refund-demand-letter.md)): Enforce commercial lease audit clauses to claw back improper landlord capital expenditures, management fee markups, and controllable CAM cap violations.
+
+- [Unlawful Auto-Renewal & Dark-Pattern SaaS Contract Chargeback: ARL Statutory Refund Demand Letter](https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.html) ([.md](https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.md)): Void unauthorized 12-month auto-renewals and recover credit card charges citing California ARL (Bus. & Prof. Code § 17600), New York GBL § 527-a, and FTC Click-to-Cancel rules.
 
 
 ---
@@ -386,4 +390,29 @@ Commercial debtors routinely ignore polite email reminders. A formal pre-litigat
 
 ## Authoritative Citations
 - Restatement (Second) of Property (Landlord & Tenant) · BOMA Retail/Office Lease Accounting Standards · State Commercial Contract Codes
+
+
+---
+
+# Unlawful Auto-Renewal & Dark-Pattern SaaS Contract Chargeback: ARL Statutory Refund Demand Letter
+
+> **Platform**: [LexaDue (lexadue.com)](https://lexadue.com/)  
+> **Canonical Monograph**: [https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.html](https://lexadue.com/statutes/saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand.html)  
+> **Interactive Scenario Engine**: [https://lexadue.com/?scenario=saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand&open=checkout](https://lexadue.com/?scenario=saas-enterprise-software-auto-renewal-dark-pattern-arl-statutory-cancellation-refund-demand&open=checkout)  
+> **Category**: CONSUMER & COMMERCIAL CONTRACT PROTECTION · 2026 STATUTORY DOSSIER · **Updated**: 2026-11-04
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: Void unauthorized 12-month auto-renewals and recover credit card charges citing California ARL (Bus. & Prof. Code § 17600), New York GBL § 527-a, and FTC Click-to-Cancel rules.
+- **Unmet Pain Point**: Software vendors bury 60-day cancellation notice windows in fine print and auto-charge $2,000–$25,000 annual renewals without sending mandatory pre-renewal statutory reminders.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | LexaDue Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Failure to Send Clear Pre-Renewal Notice (15–45 Days Prior) | Vendor Enforces Buried 60-Day Trap | Contract Deemed Unconditional Gift / Void under ARL | 100% Full Refund of Renewal Charge |
+| Obstructive Cancellation Dark Patterns | Mandatory Sales Call to Cancel | Violation of FTC Click-to-Cancel & State ARL Statutes | Statutory Damages + Chargeback Proof |
+| 10-Day Formal General Counsel & Processor Notice | Support Ticket Auto-Rejected | Certified Statutory Demand + Rule 408 Settlement | Rapid Reversal Without Litigation |
+
+## Authoritative Citations
+- California Bus. & Prof. Code § 17600–17606 · NY General Business Law § 527-a · FTC Negative Option Rule (16 CFR Part 425)
 
